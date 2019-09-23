@@ -1,5 +1,9 @@
 # RESUME  
 
+### 경력  
+- 포항공대 정보통신연구소 연구인턴(2019.10.16 ~ )  
+
+
 ### 공모전(수상)이력  
 - 인텔 AI 드론 경진대회 본선 (2019.08.21) : 교육 수료증 있음  
   - Caffe, OpenVINO, DJI Tello로 Image Inference해서 Score 따는 대회  
