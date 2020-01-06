@@ -1,7 +1,17 @@
 # RESUME  
+[LinkedIn](https://www.linkedin.com/in/june-kim-735176153/)    
+[Blog](http://junekkk.tistory.com/)  
 
 ### 경력  
-- 포항공대 정보통신연구소 연구인턴(2019.10.16 ~ )  
+- [SNOW Corporation](https://snowcorp.com/ko_KR/) 인턴(2019.12.23 ~ )  
+  * Creative Effect팀
+  
+- [포항공대 정보통신연구소](http://pirl.postech.ac.kr/) 연구인턴(2019.10.16 ~ 2019.11.22)  
+  * Deep Learning, Computer Vision, SLAM 연구  
+  
+
+### Skills  
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/300px-ISO_C%2B%2B_Logo.svg.png" height="50"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Python_logo_and_wordmark.svg/400px-Python_logo_and_wordmark.svg.png" height="50">  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Lua-logo-nolabel.svg/256px-Lua-logo-nolabel.svg.png" height="50">  <img src="https://upload.wikimedia.org/wikipedia/en/thumb/f/fb/OpenGL_logo_%28Nov14%29.svg/440px-OpenGL_logo_%28Nov14%29.svg.png" height="50">  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Unity_Technologies_logo.svg/440px-Unity_Technologies_logo.svg.png" height="50"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Font_Awesome_5_brands_github.svg/108px-Font_Awesome_5_brands_github.svg.png" height="50"> 
 
 
 ### 공모전(수상)이력  
