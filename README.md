@@ -4,7 +4,7 @@
 
 ### 경력  
 - [SNOW Corporation](https://snowcorp.com/ko_KR/) 인턴(2019.12.23 ~ )  
-  * Creative Effect팀
+  * 컨텐츠 개발
   
 - [포항공대 정보통신연구소](http://pirl.postech.ac.kr/) 연구인턴(2019.10.16 ~ 2019.11.22)  
   * Deep Learning, Computer Vision, SLAM 연구  
