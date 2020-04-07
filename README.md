@@ -11,7 +11,7 @@
   
 
 ### Skills  
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/300px-ISO_C%2B%2B_Logo.svg.png" height="50"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Python_logo_and_wordmark.svg/400px-Python_logo_and_wordmark.svg.png" height="50">  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Lua-logo-nolabel.svg/256px-Lua-logo-nolabel.svg.png" height="50">  <img src="https://upload.wikimedia.org/wikipedia/en/thumb/f/fb/OpenGL_logo_%28Nov14%29.svg/440px-OpenGL_logo_%28Nov14%29.svg.png" height="50">  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Unity_Technologies_logo.svg/440px-Unity_Technologies_logo.svg.png" height="50"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Font_Awesome_5_brands_github.svg/108px-Font_Awesome_5_brands_github.svg.png" height="50"> 
+<img src="https://www.lua.org/images/logo.gif" height="50"> <img src="https://upload.wikimedia.org/wikipedia/en/thumb/f/fb/OpenGL_logo_%28Nov14%29.svg/440px-OpenGL_logo_%28Nov14%29.svg.png" height="50"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/300px-ISO_C%2B%2B_Logo.svg.png" height="50"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Python_logo_and_wordmark.svg/400px-Python_logo_and_wordmark.svg.png" height="50">      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Unity_Technologies_logo.svg/440px-Unity_Technologies_logo.svg.png" height="50"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Font_Awesome_5_brands_github.svg/108px-Font_Awesome_5_brands_github.svg.png" height="50"> 
 
 
 ### 공모전(수상)이력  
