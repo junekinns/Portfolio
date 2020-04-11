@@ -5,9 +5,13 @@
 ### 경력  
 - [SNOW Corporation](https://snowcorp.com/ko_KR/) 인턴(2019.12.23 ~ )  
   * 컨텐츠 개발
+  * Script, OpenGL, GLSL 등 활용하여 SNOW, b612, SODA 등 카메라앱서비스의 Sticker / Effect / Kit / 컨텐츠 개발
   
 - [포항공대 정보통신연구소](http://pirl.postech.ac.kr/) 연구인턴(2019.10.16 ~ 2019.11.22)  
-  * Deep Learning, Computer Vision, SLAM 연구  
+  * Computer Vision을 기반으로 한 SLAM(Simultaneous Localization And Mapping) 연구  
+  * CVPR/ICCV/NIPS 등 각종 AI 학회 논문 연구  
+  * Python, PyTorch, ROS, Tensorflow 활용 SLAM 연구  
+
   
 
 ### Skills  
