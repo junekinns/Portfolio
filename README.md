@@ -3,11 +3,10 @@
 [Blog](http://junekkk.tistory.com/)  
 
 ### 경력  
-- [SNOW Corporation](https://snowcorp.com/ko_KR/) 인턴(2019.12.23 ~ )  
-  * 컨텐츠 개발팀  
+- [SNOW Corporation 컨텐츠 개발팀](https://snowcorp.com/ko_KR/) 인턴(2019.12.23 ~ )  
   * Script, OpenGL, GLSL 등 활용하여 SNOW, b612, SODA 카메라앱의 Sticker / Effect / 컨텐츠 및 생산성 향상을 위한 개발Kit 개발
   
-- [포항공대 정보통신연구소](http://pirl.postech.ac.kr/) 연구인턴(2019.10.16 ~ 2019.11.22)  
+- [포항공대 정보통신연구소(현: 인공지능연구원)](http://pirl.postech.ac.kr/) 연구인턴(2019.10.16 ~ 2019.11.22)  
   * Computer Vision을 기반으로 한 SLAM(Simultaneous Localization And Mapping) 연구  
   * CVPR/ICCV/NIPS 등 각종 AI 학회 논문 연구  
   * Python, PyTorch, ROS, Tensorflow 활용 SLAM 연구  
@@ -52,7 +51,7 @@
   
 ### 교육  
 - 청년 AI·Big Data 아카데미 7기 (2019.07.01 ~ 2019.09.20)   
-  - AI·Big Data의 이론적 원리와 이를 응용한 프로젝트 수행  
+  - AI·Big Data의 이론적 원리학습 및 이를 응용한 프로젝트 수행  
   - 데이터분석 프로젝트: [미세먼지 및 마스크판매 데이터로부터 비즈니스인사이트 도출](https://www.slideshare.net/secret/2eX11UTT7PWZka)  
   - AI 프로젝트: [딥러닝(GAN)을 이용한 컬러링북 생성 웹서비스](https://github.com/7-B/yoco)  
 - 한국전파진흥협회 VR-Academy 시뮬레이터 기반 체감형 VR 콘텐츠 제작과정 (2018.03.19 ~ 2018.08.29)  
