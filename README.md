@@ -1,25 +1,64 @@
-곧 사라질 이력서 저장소  
+# 김준 | Unity Client Developer
 
+그래픽스, 게임 클라이언트에 관심이 많은 3년차 프로그래머 입니다.  
+T자형 인재를 지향하여 AI웹서비스 개발, 드론경진대회 등 분야를 가리지 않고 개발하는것을 좋아합니다.  
+현재는 [NAVER Z](https://www.naverz-corp.com/ko/) 에서 3D월드 제작툴인 [Build It](https://studio.zepeto.me/ko/products/buildit)을 리뉴얼하는 프로젝트를 진행 중 입니다.
 
-#### Previous Work    
-- [포항공대 정보통신연구소(현: 인공지능연구원)](http://pirl.postech.ac.kr/) 연구인턴(2019.10.16 ~ 2019.11.22)  
-  * Computer Vision을 기반으로 한 SLAM(Simultaneous Localization And Mapping) 연구  
-  * CVPR/ICCV/NIPS 등 각종 AI 학회 논문 연구  
-  * Python, PyTorch, ROS, Tensorflow 활용 SLAM 연구  
+**Blog**: [Tistory 개발블로그](https://junekkk.tistory.com/)  
 
+**Email** : rlawns324@gmail.com  
+
+## Skills  
+### **Strong**  
+Unity / C# / Shader
+
+### **Knowledgeable**  
+C++ / OpenGL / Image Processing / Python
+
+### **ETC**  
+Git / Github Actions / Jenkins / Swagger
   
+## Projects  
+### ZEPETO World Editor | Unity 클라이언트 개발
+<img src="https://user-images.githubusercontent.com/28533936/230710602-ebde0692-814c-4875-8aec-2617c3d0de55.png" height="200"> 
+기간 : 2022.05 ~ 현재  
+현재 서비스 중인 제페토 3D 월드 제작 플랫폼 Build It을 Web기반으로 리뉴얼하는 프로젝트  
 
-### Skills  
-##### Languages  
-<img src="https://www.lua.org/images/logo.gif" height="50"> <img src="https://upload.wikimedia.org/wikipedia/en/thumb/f/fb/OpenGL_logo_%28Nov14%29.svg/440px-OpenGL_logo_%28Nov14%29.svg.png" height="50"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Python_logo_and_wordmark.svg/400px-Python_logo_and_wordmark.svg.png" height="50"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Unity_Technologies_logo.svg/440px-Unity_Technologies_logo.svg.png" height="50"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/300px-ISO_C%2B%2B_Logo.svg.png" height="50"> 
+**담당**
 
-### 공모전(수상)이력  
-- 청년 AI·Big Data 아카데미 장려상 (POSTECH 정보통신연구소, 2019.09.20)  
-- 인텔 AI 드론 경진대회 본선 (2019.08.21) : 교육 수료증 有  
-  - Caffe, OpenVINO, DJI Tello로 Image Inference해서 Score 획득하는 대회  
-  - Intel Caffe/OpenVINO 개발환경 구축에 많은 시간 소요하여 수상하진 못함    
-- 한국전파진흥협회 VR-Academy 우수 프로젝트 상(2018.08.29) : 상장/수료증 有    
-  - [Unity, Oculus Rift, 6축 모션시뮬레이터이용 VR레이싱게임 개발](https://github.com/rlawns324/Unity_Scripts/tree/master/VR_HashWay(Player%20Only))
+- 월드, 오브젝트의 다양한 속성을 편집하는 프로퍼티뷰 개발
+- 터레인 에디터 개발  
+- 에셋번들매니저 일부 개발  
+- 플레이어 연동 일부 개발
+
+
+### SNOW Camera Service | Contents Dev  
+기간 : 2019.12 ~ 2022.04 / [SNOW AR Filter](https://www.snowbusiness.co.kr/ar/index.jsp)  
+SNOW, B612, SODA, VITA, EPIK 등 SNOW 패밀리 앱 탑재되는 얼굴인식 기반의 AR 컨텐츠 개발  
+
+**담당**  
+
+- 카메라서비스에 필요한 실시간/후편집 미니게임, 영상 효과 등 개발  
+- 기업 제휴 컨텐츠 개발 담당 
+   - [PUBG 배틀그라운드 뉴스테이트 3D 필터](https://youtu.be/4NdqvH-oWIs)  
+   - [VANS Virtual Try On](https://youtube.com/shorts/MV7szw4_x6U?feature=share)
+   - [매드몬스터 필터 관련 인터뷰](https://www.jobplanet.co.kr/contents/news-1741)  
+- 2D, 3D, Motion Graphic 등 다양한 영역의 디자이너와 협업을 통한 신규컨텐츠 및 비쥬얼 퀄리티 개선 R&D  
+- 엔진팀과 협업을 통한 Script API 개선, 개발 효율화를 위한 자체 Template/Library 개발  
+- 컨텐츠제작툴 플러그인 개발 
+
+## Award / Activities
+
+### 청년 AI·Big Data 아카데미 장려상 
+19.09.20  / POSTECH 정보통신연구소
+
+### 인텔 AI 드론 경진대회 본선
+19.08.21 / Intel Korea
+- Caffe, OpenVINO, DJI Tello를 활용해 높은 Image Inference 정확도를 겨루는 대회
+
+### VR-Academy 우수 프로젝트상
+18.08.29 / 한국전파진흥협회
+- [Unity, Oculus Rift, 6축 모션시뮬레이터이용 VR레이싱게임 개발](https://github.com/rlawns324/Unity_Scripts/tree/master/VR_HashWay(Player%20Only))
 
 ### 교내외활동  
 - 우주정복 - 알고리즘 문제풀이 & 취업 스터디(중앙대학교 인재개발원, 2019.03.11 ~ 2019.08.16)  
