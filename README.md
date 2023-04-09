@@ -98,13 +98,13 @@ POSCO 청년 AI·Big Data 아카데미 7기 최종 프로젝트 : Style Transfer
 ### 정보처리기사
 - 2019.05 / 한국산업인력공단  
 
-### 청년 AI·Big Data 아카데미 장려상 
-- 2019.09.20  / POSTECH 정보통신연구소
+### POSCO 청년 AI·Big Data 아카데미 장려상 
+- 2019.09.20  / POSCO 인재창조원, POSTECH 정보통신연구소
 
 ### <혼자 공부하는 C 프로그래밍> 베타리더
 - 2019.03.11 ~ 2019.04.19 / 한빛미디어  
 
-### 인텔 AI 드론 경진대회 본선  
+### 2019 인텔 AI 드론 경진대회 본선  
 - 19.08.21 / Intel Korea  
   - Caffe, OpenVINO, DJI Tello를 활용해 높은 Image Inference 정확도를 겨루는 대회  
 
