@@ -21,6 +21,7 @@ Git / Github Actions / Jenkins / Swagger ..
 ## Projects  
 ### ZEPETO World Editor | Unity 클라이언트 개발
 <a href="https://studio.zepeto.me/ko/products/buildit"><img src="https://user-images.githubusercontent.com/28533936/230710602-ebde0692-814c-4875-8aec-2617c3d0de55.png" height="200"> <img src="https://user-images.githubusercontent.com/28533936/230734821-7c422ae9-88b3-4f4e-aae2-c321b7dcb01a.png" height="200">  
+  
 2022.05 ~ 현재  
 현재 서비스 중인 제페토 3D 월드 제작 플랫폼 Build It을 Web기반으로 리뉴얼하는 프로젝트  
 
