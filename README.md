@@ -13,14 +13,14 @@ T자형 인재를 지향하여 AI웹서비스 개발, 드론경진대회 등 분
 Unity / C# / Shader
 
 ### **Knowledgeable**  
-C++ / OpenGL / Image Processing / Python
+C++ / OpenGL / Image Processing / Python 
 
 ### **ETC**  
-Git / Github Actions / Jenkins / Swagger
+Git / Github Actions / Jenkins / Swagger ..
   
 ## Projects  
 ### ZEPETO World Editor | Unity 클라이언트 개발
-<img src="https://user-images.githubusercontent.com/28533936/230710602-ebde0692-814c-4875-8aec-2617c3d0de55.png" height="200"> <img src="https://user-images.githubusercontent.com/28533936/230734821-7c422ae9-88b3-4f4e-aae2-c321b7dcb01a.png" height="200">  
+<a href="https://studio.zepeto.me/ko/products/buildit"><img src="https://user-images.githubusercontent.com/28533936/230710602-ebde0692-814c-4875-8aec-2617c3d0de55.png" height="200"> <img src="https://user-images.githubusercontent.com/28533936/230734821-7c422ae9-88b3-4f4e-aae2-c321b7dcb01a.png" height="200">  
 2022.05 ~ 현재  
 현재 서비스 중인 제페토 3D 월드 제작 플랫폼 Build It을 Web기반으로 리뉴얼하는 프로젝트  
 
@@ -32,7 +32,7 @@ Git / Github Actions / Jenkins / Swagger
 - 플레이어 연동 일부 개발
 
 ### Rootlien | Unity 클라이언트 개발  
-<img src="https://user-images.githubusercontent.com/28533936/230735288-24cf7df0-3abf-473a-8767-bdcd303fbc63.png" height="200">  
+<a href="https://globalgamejam.org/2023/games/rootlien-6"><img src="https://user-images.githubusercontent.com/28533936/230735288-24cf7df0-3abf-473a-8767-bdcd303fbc63.png" height="200"> 
 
 2023.02.03 ~ 2023.02.05 / [Playable Build](https://play.unity.com/mg/other/rootlien)     
 2023 Global Game Jam X SMC Seoul 게임잼에 참가하여 2박3일간 만든 게임  
@@ -43,7 +43,7 @@ Git / Github Actions / Jenkins / Swagger
 
 ### SNOW Camera Service | Contents Dev  
 
-<img src="https://user-images.githubusercontent.com/28533936/230735097-0f7bd627-4870-4e93-b75b-e2d1452759a5.png" height="200"> <img src="https://user-images.githubusercontent.com/28533936/230734771-dfac23e9-4c4e-4cec-bb6f-3a5772bb4450.png" height="200"> 
+<a href="https://snowcorp.com/ko/"><img src="https://user-images.githubusercontent.com/28533936/230735097-0f7bd627-4870-4e93-b75b-e2d1452759a5.png" height="200"> <img src="https://user-images.githubusercontent.com/28533936/230734771-dfac23e9-4c4e-4cec-bb6f-3a5772bb4450.png" height="200"> 
 
 2019.12 ~ 2022.04 / [SNOW AR Filter](https://www.snowbusiness.co.kr/ar/index.jsp)  
 SNOW, B612, SODA, VITA, EPIK 등 SNOW 패밀리 앱 탑재되는 얼굴인식 기반의 AR 컨텐츠 개발  
@@ -61,7 +61,8 @@ SNOW, B612, SODA, VITA, EPIK 등 SNOW 패밀리 앱 탑재되는 얼굴인식 �
 - 컨텐츠제작툴 플러그인 개발 
 
 ### YOCO | AI 서비스 개발  
-<img src="https://user-images.githubusercontent.com/28533936/230735846-da6ab9a8-1d0d-4aaa-8938-fc27861ee40e.png" height="200">
+
+<a href="https://github.com/7-B/yoco/wiki/Development-Record"><img src="https://user-images.githubusercontent.com/28533936/230735846-da6ab9a8-1d0d-4aaa-8938-fc27861ee40e.png" height="200">
 
 2019.09.01 ~ 2019.09.15 / [Demo Video](https://youtu.be/Zw67sh-4jSI)  
 POSCO 청년 AI·Big Data 아카데미 7기 최종 프로젝트 : Style Transfer를 이용한 웹 컬러링북 서비스
@@ -71,8 +72,7 @@ POSCO 청년 AI·Big Data 아카데미 7기 최종 프로젝트 : Style Transfer
 - 시스템 설계, AI모델 리서치, Bootstrap/Flask로 데모용 웹 서비스 구현  
 
 ### HASHWAY | VR 게임 개발  
-
-<img src="https://user-images.githubusercontent.com/28533936/230736262-291a06b1-a0ec-4c02-b879-b4b0725924f7.png" height="200">
+<a href="https://github.com/rlawns324/Unity_Scripts/tree/master/VR_HashWay(Player%20Only)"><img src="https://user-images.githubusercontent.com/28533936/230736262-291a06b1-a0ec-4c02-b879-b4b0725924f7.png" height="200">
 
 2018.08 / [Game Trailer](https://youtu.be/TyUpgJMq_aI)  
 한국전파진흥협회 VR-Academy 최종프로젝트, KVRF 2018 VR / AR Grand Challenge 본선 진출 프로젝트
@@ -84,10 +84,12 @@ POSCO 청년 AI·Big Data 아카데미 7기 최종 프로젝트 : Style Transfer
 
 ## Certification / Award / Activities
 
-### [Unity Certified Associate: Programmer](https://www.credly.com/badges/345313d7-2b43-4275-87ea-3beb13e77a97)  
+### Unity Certified Associate: Programmer
+<a href="https://www.credly.com/badges/345313d7-2b43-4275-87ea-3beb13e77a97"><img src="https://user-images.githubusercontent.com/28533936/230762162-032de2e8-1a3b-445f-9ebb-6cca42e7983e.PNG" height="200">
 - 2022.10 / Unity Technologies  
 
-### [Unity Certified Associate: Game Developer](https://www.credly.com/badges/95caaa07-2839-48bf-adc4-5602285a7e7d)  
+### Unity Certified Associate: Game Developer
+<a href="https://www.credly.com/badges/95caaa07-2839-48bf-adc4-5602285a7e7d"><img src="https://user-images.githubusercontent.com/28533936/230762215-54c6fdc5-af02-41ea-8717-270de4db34dc.jpg" height="200"> 
 - 2020.10 / Unity Technologies  
 
 ### [The Book of Shaders 한국어 번역](https://thebookofshaders.com/?lan=kr)  
@@ -108,4 +110,7 @@ POSCO 청년 AI·Big Data 아카데미 7기 최종 프로젝트 : Style Transfer
 
 ### VR-Academy 우수 프로젝트상
 - 18.08.29 / 한국전파진흥협회
-  - [Unity, Oculus Rift, 6축 모션시뮬레이터이용 VR레이싱게임 개발](https://github.com/rlawns324/Unity_Scripts/tree/master/VR_HashWay(Player%20Only))  
+    
+<p align="center">
+<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Frlawns324%2FPortfolio&count_bg=%23000000&title_bg=%23000000&icon=github.svg&icon_color=%23FFFFFF&title=hits&edge_flat=false"/></a>
+</p> 
